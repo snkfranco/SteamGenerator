@@ -33,9 +33,6 @@ Just install all dependencies using:
 ```bash
   pip install -r requirements.txt
 ```
-**Make sure to have Google Chrome installed**
-
-* Download the current version of Chromedriver that matches with you Chrome version and put it into the same folder
     
 ## Improvement
 
@@ -65,6 +62,11 @@ Feel free to add or remove whatever you want.
 ## External Dependencies
 
  - [Names by treyhunner](https://github.com/treyhunner/names) - Imported using: import names
+
+
+## Made by: SNK
+
+![App](https://github.com/snkfranco/SteamGenerator/blob/main/Picture/STEAM%20ACCOUNT%20GEN%20AND%20EDITOR.jpg?raw=true)
 
 
 ## Thanks!
