@@ -34,6 +34,7 @@ Just install all dependencies using:
   pip install -r requirements.txt
 ```
 **Make sure to have Google Chrome installed**
+
 ** └ Download the current version of Chromedriver that matches with you Chrome version and put it into the same folder**
     
 ## Improvement
